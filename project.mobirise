@@ -28,7 +28,7 @@
     "uniqCompNum": 5,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/2017-07-10-165921-1-35651212113-o-128x85.png",
     "noImageResize": "",
     "siteUrl": "undefined"
   },
@@ -120,7 +120,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
