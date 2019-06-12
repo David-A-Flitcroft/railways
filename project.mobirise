@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "David Flitcroft Photography",
-    "currentPage": "index.html",
+    "currentPage": "1970s.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -231,10 +231,10 @@
         }
       ]
     },
-    "page1.html": {
+    "1970s.html": {
       "settings": {
-        "title": "!970s",
-        "meta_descr": "",
+        "title": "1970s",
+        "meta_descr": "Railway Images taken in the 1970s",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
