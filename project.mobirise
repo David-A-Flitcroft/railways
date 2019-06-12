@@ -167,7 +167,7 @@
         {
           "_inherit": "gallery1",
           "_params": {
-            "showBullets": true,
+            "showBullets": false,
             "fullWidth": false,
             "spacing": 1,
             "paddingTop": 0,
