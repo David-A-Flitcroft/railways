@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "David Flitcroft Photography",
-    "currentPage": "1970s.html",
+    "currentPage": "Early_Years.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -20,12 +20,14 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 27,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/2017-07-10-165921-1-35651212113-o-128x85.png",
@@ -52,7 +54,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "0.9",
             "fontName": {
               "name": "Roboto",
@@ -86,22 +88,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -238,7 +240,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -250,7 +252,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "0.9",
             "fontName": {
               "name": "Roboto",
@@ -744,6 +746,516 @@
           "allItem": "All",
           "_name": "gallery4",
           "_anchor": "gallery4-7"
+        }
+      ]
+    },
+    "Early_Years.html": {
+      "settings": {
+        "meta_descr": "Early railway photos",
+        "title": "Early Years",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Railway Photography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://amlwchsnapper.epizy.com\">Family History</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">David Flitcroft Photography</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "51",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/48745-500x304.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Early Years",
+          "text": "Some of my earliest railway photographs taken with simple cameras",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-e",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text1": "<b>The Beginnings\r</b><div>In the summer of 1957 or 58 The family holiday was taken during Oldham Wakes at Newquay in Cornwall. We travelled down to Newquay on a holiday extra train which left Oldham Clegg Street on the Friday evening. Power was provided by a'black five' probably from Newton Heath shed. The train ran via the former Oldham, Ashton and Guide Bridge route to Stockport and then via Crewe to Shrewsbury. I don't remember passing through Crewe station so we may have gone via the avoiding lines. Progress was rather leisurely and after arrival at Shrewsbury we stood at the platform for at least an hour, watching the station clock pass midnight in the process. The lengthy stop gave the chance for a good look at 'Royal Scot' No 46134 The Cheshire Regiment which was simmering gently in the adjacent bay. Some of the time may have been spent changing engines for an opportunity for a spell of head out of the window observation as we approached Bristol showed an ex Great Western 'Hall' on the front end. The route from Shrewsbury was via Hereford and Pontypool Road, but I don't remember a significant stop long enough for an engine change at either of those on the way down</div>",
+          "text2": "<p>The route through Bristol was via Dr. Day's Junction and North Somerset Junction, past the back of Bath Road shed to rejoin the main line to the south west having avoided passing through Temple Meads station. The route taken from then on was the former Great Western line via Taunton, Newton Abbot and Exeter to Plymouth, where we stopped and changed engines for a similar 'hall' By now it was daylight and it was here that I took my first ever railway photograph, through the open carriage window, using Dad's Box Brownie 627.<span style=\"font-size: 1.07rem;\">&nbsp;4967 Shirenewton Hall was waiting to head west at Plymouth North Road station. Our route now took us through south Devon as far as Par where we left the main line for the Newquay branch, arriving at the destination some thirteen hours after leaving Oldham.</span></p><p>At odd times during the holiday I managed to borrow the camera and took the following shots which can be seen below.This is 'Grange' 4-6-0 No. 6832 Brockton Grange waiting to leave Newquay with a weekday train. If I remember correctly it was the Newquay portion of the 'Cornish Riviera Express' certainly the coaches seem to be carrying destination Boards. 2-6-0 No 6357 shunted the staion yard.</p><p>'Hall' 4-6-0 No 6996 Blackwell Hall headed for Par with empty stock.</p><p><br></p><p>\n</p><p>And I didn't take another photograph of any kind until 1960.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-f"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4967-750x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4967-750x448-750x448.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "4967 Shirenewton Hall &nbsp;Plymouth North Road station.",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6357-800x488.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6357-800x488-800x488.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "2-6-0 No 6357 shunts in the staion yard.",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6357-2-400x272.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6357-2-400x272-400x272.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "2-6-0 No 6357 shunts in the staion yard.",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6832-800x413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6832-800x413-800x413.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "4-6-0 No. 6832 Brockton Grange",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6996-437x217.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6996-437x217-437x217.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "'Hall' 4-6-0 No 6996 Blackwell Hall &nbsp;<br>\n<br>",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><br></p><p>It was in 1961 that I began to take an interest in photography and again borrowed my father's Kodak Brownie 620 box camera, to take on holiday to Skegness in August 1960.<span style=\"font-size: 1.07rem;\">&nbsp;</span></p><p>\n</p><p>This shot shows 'B1' 4-6-0 61006 'Blackbuck' of Sheffield Darnall shed waiting to leave Skegness station with a train for Manchester Central.\n</p><p>Taken with a Kodak Brownie 627 box camera which of course was not really suitable for anything on the move or in less than good light.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j",
+          "_styles": {
+            "DIV": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/61006-600x405.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>At Christmas 1960 my first proper camera arrived - A secondhand 35mm Ilford Sportsman with a three speed Vario shutter {1/25, 1/50 and 1/200th sec.) in a Dacora Dignar f3.5 50mm lens. A simple camera which performed surprisingly well. Unfortunately most of my ngatives from the 'Sportsman' period have been lost so the following shots are taken from prints, most of not very good quality. Railway photographs tended to be taken during the school holidays as on most Saturdays during term time I was playing either soccer or cricket. \n</p><p>The following shots were taken at Manchester Victoria at various times during the year, apparently usually in less than ideal light.\n</p><p><span style=\"font-size: 1.07rem;\">1. February 1961 Black Five 4-6-0 No. 44827 is about to leave platform 12 with an afternoon train to Blackpool&nbsp;</span><span style=\"font-size: 1.07rem;\"></span></p><p>2. The empty stock from a train from Southport is heading for Red Bank carriage sidings behind Black Five 4-6-0 No 44742\n<span style=\"font-size: 1.07rem;\"></span></p><p>3. Patricroft Jubilee 4-6-0 No 45559 British Columbia brings the empty stock of an express for Blackpool into Victoria from Red Bank sidings\n</p><p>The line nearest the camera led to platform eleven at Victoria which was continuous with platform 3 at Exchange, forming the longest platform in the UK. The next two tracks were the through tracks from/to Exchange sation\n.<span style=\"font-size: 1.07rem;\"></span></p><p>4. 'Black 5' 45209 is about to take the old L&amp;Y route away from the easternmost third of platform 11 with a train for Liverpool Exchange.The long platform shared by Victoria and Exchange stations being effectively divided into three. This train would take the turnout immediately in front of the loco and pass behind Exchange station.\n</p><p><span style=\"font-size: 1.07rem;\">5. There were always plenty of 2-6-4 tanks to be seen at Victoria. Here one of the Fairburn variety, 42235 passes beneath the signal gantry at the east end of Victoria passing in front of the old Victoria East L&amp;Y signalbox. The new power box is behind, I don't recall if this was yet in operation but it wasn't long before the old box was removed. The bank to Miles Platting disappears out of shot to the right.</span><span style=\"font-size: 1.07rem;\"></span></p><p>6. 'Jubilee' 4-6-0 45574 India of Blackpool shed (24E )waits to leave for home from platform 12 with an afternoon train.\n<span style=\"font-size: 1.07rem;\"></span></p><p>7. 'Black Five' No. 44988 about to leave platform 12 with the time approaching 2.45pm\n<span style=\"font-size: 1.07rem;\"></span></p><p>8. Bank Hall Jubilee No 45698 Mars gets away from platform 13 with the 10.30 am Liverpool Exchange to York train. For many years this loco along with sisters 45717 Dauntless and 45719 Glorious had been the regular performers on this train. At the time this photo was taken the trio had been joined by unnamed 'Patriot' No.45517 (oor was it 47 ?) which became the most regular performer.This shot was yaken later in the year than most of the others as the old signalbox has been removed.\n</p><p><span style=\"font-size: 1.07rem;\">9. Station pilot/banker 2-6-0 No.46411 drifts back down into the station having given an eastbound freight a shove up the bank to Miles Platting.&nbsp;</span><span style=\"font-size: 1.07rem;\"></span></p><p>10. Stanier 8F 2-8-0 No. 48745 runs along the through road and sets off up the bank.\n<span style=\"font-size: 1.07rem;\"></span></p><p>11. Eastern Region B1 4-6-0s I never found to be very common at Victoria, in fact this is the only one I can recall seeing, although I know that there was a regular York B1 passenger turn which left Victoria at 5pm. I used to go to see it at Moston a mile or two up the line towards Rochdale.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/42235-1200x617.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/42235-1200x617-800x411.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "5",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/44742-1200x490.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/44742-1200x490-800x327.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "2",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/44827-385x500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/44827-385x500-385x500.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "6",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/44988-500x257.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/44988-500x257-500x257.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "1",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/45209-500x378.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45209-500x378-500x378.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "4",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/45559-600x356.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45559-600x356-600x356.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "3",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/45574-540x384.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45574-540x384-540x384.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "6",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/45698-500x389.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45698-500x389-500x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "8",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/46411-500x311.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/46411-500x311-500x311.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "9",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/48745-1-500x304.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/48745-1-500x304-500x304.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "10",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/61319-500x241.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/61319-500x241-500x241.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "11",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<blockquote>It's Saturday 30th December 1961and very cold, the Ilford Sportsman records 'Patriot' No 45517 heading the 10.30 Liverpool Exchange to York via the ex L&amp;Y main line, approaching Moston on the climb away from Manchester. From the following Monday 1st January 1962 the great majority of passenger services over the Calder Valley route were to be formed of three car BRCW class 110 three-car dmu's. The dmu's were faster and avoided the need to divide/combine Leeds and Bradford portions at Low Moor.All services now ran via Halifax and reversed at Bradford. A good number of 2-6-4 tanks, Crabs and Black Fives lost their jobs! And the dmu's didn't seem to provide the same spectacle somehow.</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/45517-1400x726.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-q"
         }
       ]
     }
