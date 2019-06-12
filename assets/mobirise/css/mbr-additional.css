@@ -544,11 +544,11 @@ section.form .container {
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-5 .link {
-  font-size: 1.05rem;
+  font-size: 0.9rem;
 }
 #ext_menu-5 .dropdown-item,
 #ext_menu-5 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.975rem;
 }
 #ext_menu-5 .link:hover,
 #ext_menu-5 .dropdown-item:hover,
